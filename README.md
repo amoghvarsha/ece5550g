@@ -1,1 +1,1 @@
-# ece5550g-advanced-rtos
+# ECE550G - Advanced RTOS
